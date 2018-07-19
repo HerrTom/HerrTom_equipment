@@ -1,0 +1,5 @@
+NDefines.NProduction.MAX_CIV_FACTORIES_PER_LINE = 16	
+NDefines.NProduction.MAX_LINE_RESOURCE_PENALTY = 95		
+NDefines.NProduction.BASE_FACTORY_SPEED = 5 				
+NDefines.NProduction.BASE_FACTORY_SPEED_MIL = 50 				
+NDefines.NMilitary.BASE_DIVISION_BRIGADE_GROUP_COST = 2

@@ -1,0 +1,50 @@
+sub_units = {
+	military_police = {
+		sprite = infantry
+		map_icon_category = infantry
+		priority = 0
+		ai_priority = 0
+		active = no
+
+		type = {
+			infantry
+		}
+		
+		group = infantry
+		
+		categories = {
+			category_army
+			category_front_line
+			category_light_infantry
+			category_all_infantry
+		}
+
+	
+		combat_width = 0
+	
+		#Size Definitions
+		max_strength = 2
+		max_organisation = 30	
+		default_morale = 0.3
+		manpower = 500
+		training_time = 180
+		suppression = 2.5
+
+		#Misc Abilities
+		weight = 0.1
+		supply_consumption = 0.03
+		can_be_parachuted = no
+		
+
+		essential = {
+			infantry_equipment
+			support_equipment
+		}
+		
+		need = {
+			support_equipment = 10
+			infantry_equipment = 400
+		}
+
+	}
+}
