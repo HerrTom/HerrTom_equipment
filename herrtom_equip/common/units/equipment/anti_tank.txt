@@ -29,32 +29,21 @@ equipments = {
 		air_attack = 0
 
 		#Space taken in convoy
-		lend_lease_cost = 3
+		lend_lease_cost = 0.45
 				
-		build_cost_ic = 40
+		build_cost_ic = 4
 		resources = {
 			tungsten = 2
 			steel = 2
 		}
 	}
-	
-	anti_tank_equipment_0 = {
-		year = 1934
-		
-		archetype = anti_tank_equipment
-		priority = 90
-		visual_level = 0
-		
-		hard_attack = 10
-		ap_attack = 60
-	}
-	
+
 	anti_tank_equipment_1 = {
 		year = 1936
 
 		archetype = anti_tank_equipment
 		priority = 90
-		visual_level = 1
+		visual_level = 0
 	}
 	
 	anti_tank_equipment_2 = {
@@ -68,7 +57,7 @@ equipments = {
 		hard_attack = 22
 		ap_attack = 88
 		
-		build_cost_ic = 50
+		build_cost_ic = 5
 		resources = {
 			tungsten = 2
 			steel = 2
@@ -86,7 +75,7 @@ equipments = {
 		hard_attack = 30
 		ap_attack = 108
 		
-		build_cost_ic = 60
+		build_cost_ic = 6
 		resources = {
 			tungsten = 2
 			steel = 3

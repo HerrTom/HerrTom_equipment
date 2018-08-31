@@ -19,9 +19,9 @@ equipments = {
 		hardness = 0.1
 
 		#Space taken in convoy
-		lend_lease_cost = 5
+		lend_lease_cost = 10
 
-		build_cost_ic = 25
+		build_cost_ic = 2.55
 		resources = {
 			oil = 1
 			rubber = 1

@@ -46,8 +46,7 @@ sub_units = {
 		need = {
 			infantry_equipment 			= 525
 			infantry_equipment_smg 		= 60
-			infantry_equipment_lmg 		= 30
-			infantry_equipment_hmg		= 20
+			infantry_equipment_mg 		= 50
 			infantry_equipment_at		= 5
 			infantry_equipment_mortar	= 10
 		}
